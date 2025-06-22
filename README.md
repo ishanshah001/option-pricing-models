@@ -40,6 +40,11 @@ This interactive Streamlit app compares two popular methods for pricing European
 ## ⚙️ Run Locally
 
 1. Clone the repo:
-   ```bash
+   ```
    git clone https://github.com/your-username/option-pricing-models.git
    cd option-pricing-models
+   ```
+2. Launch the app
+   ```
+   streamlit run main.py
+   ```
